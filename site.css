@@ -1,0 +1,25 @@
+﻿html, body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background:#808080;
+    
+}
+
+.conteudo{
+    margin:0 auto;
+    background:#ffffff;
+    width:100%;
+    max-width:1000px;
+    height:100%;
+}
+
+.texto{
+    font-size:10pt;
+    color:#413f3f;
+    padding:30px;
+    line-height:150%;
+
+}
+
+
